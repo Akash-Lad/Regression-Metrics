@@ -1,6 +1,6 @@
 # Regression-Metrics
 
-Examining about Evaluation Metrics used in Regression techniques in Scikit Learn.
+Examining about Evaluation Metrics used in Regression algorithms by using Scikit Learn in python 3.7.
 
 Tested using random values of y_test dataset in numpy.
 
